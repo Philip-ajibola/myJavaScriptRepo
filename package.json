@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "jest": "^29.7.0"
+  },
+  "name": "javascriptfolder2",
+  "description": "my name",
+  "version": "1.0.0",
+  "main": "jestTest.test.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
